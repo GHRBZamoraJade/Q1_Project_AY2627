@@ -1,0 +1,17 @@
+div{
+    border: 20px solid #a03528;
+}
+
+#heading1 {
+    font-size: 70px;
+    text-shadow: 4px 4px 4px rgba(146,104,48,0.45);
+}
+
+.heading2{
+    font-size: 70px;
+    text-shadow: 4px 4px 4px rgba(146,104,48,0.45);
+}
+
+span{
+    font-size: 70px;
+}
